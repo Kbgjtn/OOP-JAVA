@@ -196,7 +196,7 @@ public class Features {
                     }
 
                     System.out.println("\ndata to [" + toInt + "] successfully removed from the list!");
-                    clearConsole();
+
                     break;
 
                 } catch (InputMismatchException err) {
